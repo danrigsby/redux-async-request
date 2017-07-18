@@ -22,7 +22,7 @@ Sanily handle async requests in redux
 npm install redux-async-request --save
 
 # yarn
-yarn add redux-async-request --dev
+yarn add redux-async-request
 ```
 
 ## Background
