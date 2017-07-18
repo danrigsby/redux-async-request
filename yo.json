@@ -1,0 +1,8 @@
+{
+  "author": "Dan Rigsby &lt;danrigsby@gmail.com&gt;",
+  "description": "Sanily handle async requests in redux",
+  "displayName": "Redux AsyncRequest",
+  "name": "redux-async-request",
+  "org": "danrigsby",
+  "timestamp": "2017-07-17T13:55:14.578Z"
+}
